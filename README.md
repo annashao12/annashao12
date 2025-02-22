@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on genomic sequencing (experimental + computational)
+- 🔭 I’m currently working on genomic sequencing (computational + experimental)
 - 🌱 I’m currently learning analysis best practices
 - 📫 How to reach me: ashao@college.harvard.edu
 

@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on genomic sequencing (experimental + computational)
 - 🌱 I’m currently learning analysis best practices
-- 📫 How to reach me: ashao@college.harvard.edu
+- 📫 How to reach me: ashao [at] college [dot] harvard [dot] edu
 
 <!--
 **annashao12/annashao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<
+- 🔭 I’m currently working on genomic sequencing
+- 🌱 I’m currently learning analysis practices
+- 📫 How to reach me: ashao@college.harvard.edu
+>
+
 <!--
 **annashao12/annashao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
